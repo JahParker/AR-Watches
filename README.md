@@ -1,7 +1,7 @@
-# AR-Watches
+# ARWatches
 This is a Unity application that takes an image target that you can put on your wrist that allows you to have a watch model on top of it. The app will also allow users to make changes the watch to fit them (Ex: Switching watch models, change colors, etc.)
 
-*Inspiration and Watch Models/UI Images from Parth Anand (LinkedIn Learning)*
+*Inspiration and watch models/UI images from Parth Anand (LinkedIn Learning)*
 
 
 ## Goals
